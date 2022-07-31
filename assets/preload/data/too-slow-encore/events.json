@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "sonicstage",
+		"player1": "bf",
+		"player2": "Sonic_BF",
+		"player3": null,
+		"events": [
+			[
+				163498.946088699,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "Blood",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 135,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Too Slow Encore"
+	}
+}
